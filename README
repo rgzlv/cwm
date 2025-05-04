@@ -1,0 +1,10 @@
+cwm for XQuartz
+
+Dependencies:
+- GNU make
+- XQuartz
+- pkg-config
+- freetype2
+- libbsd
+
+Only the GNUmakefile is new and it uses all of these to build.
