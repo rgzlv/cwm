@@ -1,3 +1,4 @@
 /cwm
 *.o
 /parse.c
+*.swp
